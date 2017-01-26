@@ -25,4 +25,15 @@
 ### 8. Hvað eru jaðartæki?
 #### svar: jaðartæki er t.d. mús, prentari,hátalarar. hlutir sem eru ekki nauðsinlegir fyrir tölvur.
 
+### 9. Nefndu þrjú dæmi um inntakstæki.
+#### svar:Hlutverk inntakstækja er koma upplýsingum eins og texta, myndum, hljóði  frá þér og inn í tölvuna svo það eru t.d. lykklaborð mús, hátalarar.
+
+### Hlutir                                          Kostnaður
+#### Thermaltake Urban S31 ATX turnkassi            24.990
+#### 4TB SATA3 Seagate Desktop HDD harður diskur    22.990
+#### Gigabyte S1151 GA-Z170-Gaming K3               21.990
+#### Intel Core I7-7700K Quad Core örgjörvi         58.990
+####Gigabyte GTX 1080 G1 Gaming skjákort 8GB GDDR5X 119.990
+####                                                249.980  
+
 
