@@ -21,3 +21,8 @@
 ### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 ### Nefnið dæmi um báðar gerðir af spurningum.
 #### svar : open ended er þegar það er hægt að breita þó það er lokað, en closed ended þá er það alveg búið og ekki er hægt að gera mikið nema skoða.
+
+### 8. Hvað eru jaðartæki?
+#### svar: jaðartæki er t.d. mús, prentari,hátalarar. hlutir sem eru ekki nauðsinlegir fyrir tölvur.
+
+
