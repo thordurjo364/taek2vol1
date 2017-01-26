@@ -17,3 +17,7 @@
 #### 4.hafa plan til að prufa tilöguna.
 #### 5.prófa gera hluti inn í tölvuna eins og stress test eða fara á netið.
 #### 6.Fá útkommu.
+
+### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
+### Nefnið dæmi um báðar gerðir af spurningum.
+#### svar : open ended er þegar það er hægt að breita þó það er lokað, en closed ended þá er það alveg búið og ekki er hægt að gera mikið nema skoða.
